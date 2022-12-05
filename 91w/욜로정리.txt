@@ -1,0 +1,25 @@
+테스트 : UCI
+클래스 : 캐글
+디텍션 : 로보플로우
+세그멘테이션 : MIT
+
+copy 시 주의 
+!curl -L "https://public.roboflow.com/ds/de88zeAvdt?key=UIo4luQrou" > roboflow.zip; unzip roboflow.zip; rm roboflow.zip
+
+
+정리 
+
+1. 욜로소스 다운 처리
+2. 라이브러리 설치
+3. 프리트레인 다운 
+4. 데이터 수집-로보플로우 다운 처리 - 터미널 - curl 
+5. 데이터환경 설정 - 야물화일
+6. 파인튜닝 - 문법확인 (모델핏) - 시간 오래걸림 - best.pt 확인 
+7. 텐서보드 확인 - 오브젝트 로스및 정확도 확인
+8. 프리딕션 처리 - 결과 확인 
+  
+
+파이썬 집합 연산
+
+- 차집합, 교집합 
+
